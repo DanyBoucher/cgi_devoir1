@@ -1,0 +1,14 @@
+E:\OneDrive\Documents\CGI\projects\01Devoir1\Devoir1\Devoir1\bin\Debug\Devoir1.exe.config
+E:\OneDrive\Documents\CGI\projects\01Devoir1\Devoir1\Devoir1\bin\Debug\Devoir1.exe
+E:\OneDrive\Documents\CGI\projects\01Devoir1\Devoir1\Devoir1\bin\Debug\Devoir1.pdb
+E:\OneDrive\Documents\CGI\projects\01Devoir1\Devoir1\Devoir1\obj\Debug\Devoir1.csprojAssemblyReference.cache
+E:\OneDrive\Documents\CGI\projects\01Devoir1\Devoir1\Devoir1\obj\Debug\Devoir1.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\CGI\projects\01Devoir1\Devoir1\Devoir1\obj\Debug\Devoir1.exe
+E:\OneDrive\Documents\CGI\projects\01Devoir1\Devoir1\Devoir1\obj\Debug\Devoir1.pdb
+E:\OneDrive\Documents\CGI\projects\01Devoir1_2\Devoir1\Devoir1\bin\Debug\Devoir1.exe.config
+E:\OneDrive\Documents\CGI\projects\01Devoir1_2\Devoir1\Devoir1\bin\Debug\Devoir1.exe
+E:\OneDrive\Documents\CGI\projects\01Devoir1_2\Devoir1\Devoir1\bin\Debug\Devoir1.pdb
+E:\OneDrive\Documents\CGI\projects\01Devoir1_2\Devoir1\Devoir1\obj\Debug\Devoir1.csprojAssemblyReference.cache
+E:\OneDrive\Documents\CGI\projects\01Devoir1_2\Devoir1\Devoir1\obj\Debug\Devoir1.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\CGI\projects\01Devoir1_2\Devoir1\Devoir1\obj\Debug\Devoir1.exe
+E:\OneDrive\Documents\CGI\projects\01Devoir1_2\Devoir1\Devoir1\obj\Debug\Devoir1.pdb
